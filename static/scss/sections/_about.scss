@@ -3,13 +3,9 @@
 	justify-content: center;
 	align-items: center;
 	gap: 4rem;
-	margin-top: 200px;
+	margin-top: 150px;
 	margin-bottom: 200px;
 	.about__img {
-		position: relative;
-		width: 400px;
-		height: 500px;
-		width: 400px;
 		cursor: pointer;
 
 		img {
@@ -21,15 +17,40 @@
 	}
 	.about__img:hover {
 		img {
-			width: 410px;
-			height: auto;
 			filter: grayscale(30%);
-
 		}
 	}
 	.about__content {
 		width: 400px;
 		font-size: 1.5rem;
 		color: #fce205;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.about {
+		flex-direction: column;
+		.about__img {
+			img {
+				width: 500px;
+				height: auto;
+			}
+		}
+		.about__content {
+			width: 500px;
+		}
+	}
+}
+
+@media screen and (max-width: 415px) {
+	.about {
+		.about__img {
+			img {
+				width: 300px;
+			}
+		}
+		.about__content {
+			width: 300px;
+		}
 	}
 }
