@@ -1,1 +1,13 @@
 <a href="https://iconscout.com/icons/arrow" target="_blank">Arrow Line Icon</a> by <a href="https://iconscout.com/contributors/cosmin-negoita" target="_blank">Cosmin Negoita</a>
+
+<a href="https://iconscout.com/icons/html" target="_blank">Html Glyph  Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-54">Icon 54</a> on <a href="https://iconscout.com">Iconscout</a>
+
+<a href="https://iconscout.com/icons/css" target="_blank">Css Glyph  Logo Icon</a> by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>
+
+<a href="https://iconscout.com/icons/sass" target="_blank">Sass Glyph Icon</a> by <a href="https://iconscout.com/contributors/benjamin-j-sperry">Benjamin J Sperry</a> on <a href="https://iconscout.com">Iconscout</a>
+
+<a href="https://iconscout.com/icons/gulp" target="_blank">Gulp Glyph  Logo Icon</a> by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>
+
+<a href="https://iconscout.com/icons/python" target="_blank">Python Glyph Icon</a> by <a href="https://iconscout.com/contributors/benjamin-j-sperry">Benjamin J Sperry</a> on <a href="https://iconscout.com">Iconscout</a>
+
+<a href="https://iconscout.com/icons/django" target="_blank">Django Glyph  Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-54">Icon 54</a> on <a href="https://iconscout.com">Iconscout</a>
